@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16082fd0-e7bd-44a5-8285-82b1bd4da391" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/about/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/contact/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/shop/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/shop/product/[pname].js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/shop/product2/[...slug].js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/shop/product/[pname].module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/shabnam.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/shop/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shop/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/shop/product/[pname].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shop/product/[pname].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,6 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/about" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -73,7 +75,8 @@
       <updated>1627282459812</updated>
       <workItem from="1627282462803" duration="1674000" />
       <workItem from="1627284291550" duration="3703000" />
-      <workItem from="1627456398647" duration="6394000" />
+      <workItem from="1627456398647" duration="6401000" />
+      <workItem from="1627712363084" duration="4863000" />
     </task>
     <servers />
   </component>

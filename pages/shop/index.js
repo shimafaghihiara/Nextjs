@@ -1,9 +1,16 @@
 import React from 'react';
-import Link from "next/link"
+import Link from "next/link";
+import Head from "next/head"
 
 const Index = () => {
     return (
         <div>
+            <Head>
+                <title>محصولات برتر</title>
+                <link rel="shortcut icon" type="image/x-icon" href="/images/p1.jpg" />
+
+            </Head>
+
             <nav>
                 <ul>
                     <li><Link href={"/shop/product/1"}>محصول 1</Link></li>
