@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16082fd0-e7bd-44a5-8285-82b1bd4da391" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/shop/product/[pname].module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/shabnam.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shop/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shop/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/shop/product/[pname].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shop/product/[pname].js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +38,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/about" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/theme" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\nextjs\src\theme" />
       <recent name="E:\nextjs\pages\about" />
     </key>
   </component>
@@ -76,7 +78,8 @@
       <workItem from="1627282462803" duration="1674000" />
       <workItem from="1627284291550" duration="3703000" />
       <workItem from="1627456398647" duration="6401000" />
-      <workItem from="1627712363084" duration="4863000" />
+      <workItem from="1627712363084" duration="9204000" />
+      <workItem from="1627792581853" duration="3175000" />
     </task>
     <servers />
   </component>
